@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://drive.google.com/uc?id=1uZhBJrOEcF7WFfnfHALAa_LjQxdbocE4" alt="Snake animation" />
+<img src="https://drive.google.com/uc?id=1uZhBJrOEcF7WFfnfHALAa_LjQxdbocE4" alt="Snake animation"  height="150"  />
 
 ###
